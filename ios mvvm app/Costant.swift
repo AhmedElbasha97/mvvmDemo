@@ -7,3 +7,6 @@
 //
 
 import Foundation
+struct EndPoint {
+    static let strURL = "https://jsonplaceholder.typicode.com/posts"
+}
